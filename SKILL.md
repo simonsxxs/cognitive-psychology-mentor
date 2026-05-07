@@ -524,5 +524,6 @@ type: framework
 ---
 
 > 本 Skill 由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：Claude Code + 花叔的 nuwa-skill 框架
-> 蒸馏日期：2026-05-07
+> 作者：simon
+> 微信：simonsxxs
+> 邮箱：simonsxx@qq.com

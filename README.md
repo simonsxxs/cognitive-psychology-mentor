@@ -39,3 +39,9 @@ npx skills add simonsxxs/cognitive-psychology-mentor
 ## Distilled By
 
 [Nuwa Skill](https://github.com/alchaincyf/nuwa-skill) framework — 6 parallel research agents, 50+ web searches.
+
+---
+
+> 作者：simon
+> 微信：simonsxxs
+> 邮箱：simonsxx@qq.com
